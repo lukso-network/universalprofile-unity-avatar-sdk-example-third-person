@@ -302,59 +302,41 @@
  <Reference Include="UnityEditor.LinuxStandalone.Extensions">
  <HintPath>C:/Program Files/Unity/Hub/Editor/2020.3.30f1/Editor/Data/PlaybackEngines/LinuxStandaloneSupport/UnityEditor.LinuxStandalone.Extensions.dll</HintPath>
  </Reference>
- <Reference Include="BouncyCastle.Crypto">
- <HintPath>F:/Unity/UniversalProfileAvatarSDK-ThirdPersonExample/Assets/universalprofile-unity-avatar-sdk/Dependencies/BouncyCastle.Crypto.dll</HintPath>
- </Reference>
- <Reference Include="Common.Logging.Core">
- <HintPath>F:/Unity/UniversalProfileAvatarSDK-ThirdPersonExample/Assets/universalprofile-unity-avatar-sdk/Dependencies/Common.Logging.Core.dll</HintPath>
- </Reference>
  <Reference Include="Microsoft.Extensions.Logging.Abstractions">
  <HintPath>F:/Unity/UniversalProfileAvatarSDK-ThirdPersonExample/Assets/universalprofile-unity-avatar-sdk/Dependencies/Microsoft.Extensions.Logging.Abstractions.dll</HintPath>
- </Reference>
- <Reference Include="NBitcoin">
- <HintPath>F:/Unity/UniversalProfileAvatarSDK-ThirdPersonExample/Assets/universalprofile-unity-avatar-sdk/Dependencies/NBitcoin.dll</HintPath>
- </Reference>
- <Reference Include="Nethereum.ABI">
- <HintPath>F:/Unity/UniversalProfileAvatarSDK-ThirdPersonExample/Assets/universalprofile-unity-avatar-sdk/Dependencies/Nethereum.ABI.dll</HintPath>
- </Reference>
- <Reference Include="Nethereum.Accounts">
- <HintPath>F:/Unity/UniversalProfileAvatarSDK-ThirdPersonExample/Assets/universalprofile-unity-avatar-sdk/Dependencies/Nethereum.Accounts.dll</HintPath>
  </Reference>
  <Reference Include="Nethereum.Besu">
  <HintPath>F:/Unity/UniversalProfileAvatarSDK-ThirdPersonExample/Assets/universalprofile-unity-avatar-sdk/Dependencies/Nethereum.Besu.dll</HintPath>
  </Reference>
- <Reference Include="Nethereum.BlockchainProcessing">
- <HintPath>F:/Unity/UniversalProfileAvatarSDK-ThirdPersonExample/Assets/universalprofile-unity-avatar-sdk/Dependencies/Nethereum.BlockchainProcessing.dll</HintPath>
+ <Reference Include="NBitcoin">
+ <HintPath>F:/Unity/UniversalProfileAvatarSDK-ThirdPersonExample/Assets/universalprofile-unity-avatar-sdk/Dependencies/NBitcoin.dll</HintPath>
  </Reference>
- <Reference Include="Nethereum.Contracts">
- <HintPath>F:/Unity/UniversalProfileAvatarSDK-ThirdPersonExample/Assets/universalprofile-unity-avatar-sdk/Dependencies/Nethereum.Contracts.dll</HintPath>
+ <Reference Include="Nethereum.Util">
+ <HintPath>F:/Unity/UniversalProfileAvatarSDK-ThirdPersonExample/Assets/universalprofile-unity-avatar-sdk/Dependencies/Nethereum.Util.dll</HintPath>
  </Reference>
- <Reference Include="Nethereum.Geth">
- <HintPath>F:/Unity/UniversalProfileAvatarSDK-ThirdPersonExample/Assets/universalprofile-unity-avatar-sdk/Dependencies/Nethereum.Geth.dll</HintPath>
+ <Reference Include="Nethereum.RPC">
+ <HintPath>F:/Unity/UniversalProfileAvatarSDK-ThirdPersonExample/Assets/universalprofile-unity-avatar-sdk/Dependencies/Nethereum.RPC.dll</HintPath>
  </Reference>
- <Reference Include="Nethereum.HdWallet">
- <HintPath>F:/Unity/UniversalProfileAvatarSDK-ThirdPersonExample/Assets/universalprofile-unity-avatar-sdk/Dependencies/Nethereum.HdWallet.dll</HintPath>
- </Reference>
- <Reference Include="Nethereum.Hex">
- <HintPath>F:/Unity/UniversalProfileAvatarSDK-ThirdPersonExample/Assets/universalprofile-unity-avatar-sdk/Dependencies/Nethereum.Hex.dll</HintPath>
- </Reference>
- <Reference Include="Nethereum.JsonRpc.Client">
- <HintPath>F:/Unity/UniversalProfileAvatarSDK-ThirdPersonExample/Assets/universalprofile-unity-avatar-sdk/Dependencies/Nethereum.JsonRpc.Client.dll</HintPath>
- </Reference>
- <Reference Include="Nethereum.JsonRpc.IpcClient">
- <HintPath>F:/Unity/UniversalProfileAvatarSDK-ThirdPersonExample/Assets/universalprofile-unity-avatar-sdk/Dependencies/Nethereum.JsonRpc.IpcClient.dll</HintPath>
+ <Reference Include="System.Threading.Tasks.Extensions">
+ <HintPath>F:/Unity/UniversalProfileAvatarSDK-ThirdPersonExample/Assets/universalprofile-unity-avatar-sdk/Dependencies/System.Threading.Tasks.Extensions.dll</HintPath>
  </Reference>
  <Reference Include="Nethereum.JsonRpc.RpcClient">
  <HintPath>F:/Unity/UniversalProfileAvatarSDK-ThirdPersonExample/Assets/universalprofile-unity-avatar-sdk/Dependencies/Nethereum.JsonRpc.RpcClient.dll</HintPath>
  </Reference>
- <Reference Include="Nethereum.JsonRpc.WebSocketClient">
- <HintPath>F:/Unity/UniversalProfileAvatarSDK-ThirdPersonExample/Assets/universalprofile-unity-avatar-sdk/Dependencies/Nethereum.JsonRpc.WebSocketClient.dll</HintPath>
+ <Reference Include="log4netPlastic">
+ <HintPath>F:/Unity/UniversalProfileAvatarSDK-ThirdPersonExample/Library/PackageCache/com.unity.collab-proxy@1.15.12/Lib/Editor/PlasticSCM/log4netPlastic.dll</HintPath>
+ </Reference>
+ <Reference Include="System.Reactive">
+ <HintPath>F:/Unity/UniversalProfileAvatarSDK-ThirdPersonExample/Assets/universalprofile-unity-avatar-sdk/Dependencies/System.Reactive.dll</HintPath>
  </Reference>
  <Reference Include="Nethereum.KeyStore">
  <HintPath>F:/Unity/UniversalProfileAvatarSDK-ThirdPersonExample/Assets/universalprofile-unity-avatar-sdk/Dependencies/Nethereum.KeyStore.dll</HintPath>
  </Reference>
- <Reference Include="Nethereum.Model">
- <HintPath>F:/Unity/UniversalProfileAvatarSDK-ThirdPersonExample/Assets/universalprofile-unity-avatar-sdk/Dependencies/Nethereum.Model.dll</HintPath>
+ <Reference Include="Nethereum.JsonRpc.WebSocketClient">
+ <HintPath>F:/Unity/UniversalProfileAvatarSDK-ThirdPersonExample/Assets/universalprofile-unity-avatar-sdk/Dependencies/Nethereum.JsonRpc.WebSocketClient.dll</HintPath>
+ </Reference>
+ <Reference Include="Nethereum.HdWallet">
+ <HintPath>F:/Unity/UniversalProfileAvatarSDK-ThirdPersonExample/Assets/universalprofile-unity-avatar-sdk/Dependencies/Nethereum.HdWallet.dll</HintPath>
  </Reference>
  <Reference Include="Nethereum.Parity">
  <HintPath>F:/Unity/UniversalProfileAvatarSDK-ThirdPersonExample/Assets/universalprofile-unity-avatar-sdk/Dependencies/Nethereum.Parity.dll</HintPath>
@@ -362,29 +344,11 @@
  <Reference Include="Nethereum.Quorum">
  <HintPath>F:/Unity/UniversalProfileAvatarSDK-ThirdPersonExample/Assets/universalprofile-unity-avatar-sdk/Dependencies/Nethereum.Quorum.dll</HintPath>
  </Reference>
- <Reference Include="Nethereum.RLP">
- <HintPath>F:/Unity/UniversalProfileAvatarSDK-ThirdPersonExample/Assets/universalprofile-unity-avatar-sdk/Dependencies/Nethereum.RLP.dll</HintPath>
+ <Reference Include="Unity.Analytics.StandardEvents">
+ <HintPath>F:/Unity/UniversalProfileAvatarSDK-ThirdPersonExample/Library/PackageCache/com.unity.analytics@3.6.12/AnalyticsStandardEvents/Unity.Analytics.StandardEvents.dll</HintPath>
  </Reference>
- <Reference Include="Nethereum.RPC">
- <HintPath>F:/Unity/UniversalProfileAvatarSDK-ThirdPersonExample/Assets/universalprofile-unity-avatar-sdk/Dependencies/Nethereum.RPC.dll</HintPath>
- </Reference>
- <Reference Include="Nethereum.RPC.Reactive">
- <HintPath>F:/Unity/UniversalProfileAvatarSDK-ThirdPersonExample/Assets/universalprofile-unity-avatar-sdk/Dependencies/Nethereum.RPC.Reactive.dll</HintPath>
- </Reference>
- <Reference Include="Nethereum.Signer">
- <HintPath>F:/Unity/UniversalProfileAvatarSDK-ThirdPersonExample/Assets/universalprofile-unity-avatar-sdk/Dependencies/Nethereum.Signer.dll</HintPath>
- </Reference>
- <Reference Include="Nethereum.StandardTokenEIP20">
- <HintPath>F:/Unity/UniversalProfileAvatarSDK-ThirdPersonExample/Assets/universalprofile-unity-avatar-sdk/Dependencies/Nethereum.StandardTokenEIP20.dll</HintPath>
- </Reference>
- <Reference Include="Nethereum.Unity">
- <HintPath>F:/Unity/UniversalProfileAvatarSDK-ThirdPersonExample/Assets/universalprofile-unity-avatar-sdk/Dependencies/Nethereum.Unity.dll</HintPath>
- </Reference>
- <Reference Include="Nethereum.Util">
- <HintPath>F:/Unity/UniversalProfileAvatarSDK-ThirdPersonExample/Assets/universalprofile-unity-avatar-sdk/Dependencies/Nethereum.Util.dll</HintPath>
- </Reference>
- <Reference Include="Nethereum.Web3">
- <HintPath>F:/Unity/UniversalProfileAvatarSDK-ThirdPersonExample/Assets/universalprofile-unity-avatar-sdk/Dependencies/Nethereum.Web3.dll</HintPath>
+ <Reference Include="Unity.Plastic.Newtonsoft.Json">
+ <HintPath>F:/Unity/UniversalProfileAvatarSDK-ThirdPersonExample/Library/PackageCache/com.unity.collab-proxy@1.15.12/Lib/Editor/PlasticSCM/Unity.Plastic.Newtonsoft.Json.dll</HintPath>
  </Reference>
  <Reference Include="Newtonsoft.Json">
  <HintPath>F:/Unity/UniversalProfileAvatarSDK-ThirdPersonExample/Assets/universalprofile-unity-avatar-sdk/Dependencies/Newtonsoft.Json.dll</HintPath>
@@ -392,17 +356,74 @@
  <Reference Include="System.Buffers">
  <HintPath>F:/Unity/UniversalProfileAvatarSDK-ThirdPersonExample/Assets/universalprofile-unity-avatar-sdk/Dependencies/System.Buffers.dll</HintPath>
  </Reference>
- <Reference Include="System.Reactive">
- <HintPath>F:/Unity/UniversalProfileAvatarSDK-ThirdPersonExample/Assets/universalprofile-unity-avatar-sdk/Dependencies/System.Reactive.dll</HintPath>
+ <Reference Include="Unity.Analytics.Editor">
+ <HintPath>F:/Unity/UniversalProfileAvatarSDK-ThirdPersonExample/Library/PackageCache/com.unity.analytics@3.6.12/Unity.Analytics.Editor.dll</HintPath>
+ </Reference>
+ <Reference Include="Nethereum.StandardTokenEIP20">
+ <HintPath>F:/Unity/UniversalProfileAvatarSDK-ThirdPersonExample/Assets/universalprofile-unity-avatar-sdk/Dependencies/Nethereum.StandardTokenEIP20.dll</HintPath>
+ </Reference>
+ <Reference Include="System.ValueTuple">
+ <HintPath>F:/Unity/UniversalProfileAvatarSDK-ThirdPersonExample/Assets/universalprofile-unity-avatar-sdk/Dependencies/System.ValueTuple.dll</HintPath>
+ </Reference>
+ <Reference Include="Nethereum.Model">
+ <HintPath>F:/Unity/UniversalProfileAvatarSDK-ThirdPersonExample/Assets/universalprofile-unity-avatar-sdk/Dependencies/Nethereum.Model.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.Plastic.Antlr3.Runtime">
+ <HintPath>F:/Unity/UniversalProfileAvatarSDK-ThirdPersonExample/Library/PackageCache/com.unity.collab-proxy@1.15.12/Lib/Editor/PlasticSCM/Unity.Plastic.Antlr3.Runtime.dll</HintPath>
+ </Reference>
+ <Reference Include="Nethereum.BlockchainProcessing">
+ <HintPath>F:/Unity/UniversalProfileAvatarSDK-ThirdPersonExample/Assets/universalprofile-unity-avatar-sdk/Dependencies/Nethereum.BlockchainProcessing.dll</HintPath>
+ </Reference>
+ <Reference Include="Nethereum.ABI">
+ <HintPath>F:/Unity/UniversalProfileAvatarSDK-ThirdPersonExample/Assets/universalprofile-unity-avatar-sdk/Dependencies/Nethereum.ABI.dll</HintPath>
+ </Reference>
+ <Reference Include="Nethereum.Geth">
+ <HintPath>F:/Unity/UniversalProfileAvatarSDK-ThirdPersonExample/Assets/universalprofile-unity-avatar-sdk/Dependencies/Nethereum.Geth.dll</HintPath>
  </Reference>
  <Reference Include="System.Runtime.CompilerServices.Unsafe">
  <HintPath>F:/Unity/UniversalProfileAvatarSDK-ThirdPersonExample/Assets/universalprofile-unity-avatar-sdk/Dependencies/System.Runtime.CompilerServices.Unsafe.dll</HintPath>
  </Reference>
- <Reference Include="System.Threading.Tasks.Extensions">
- <HintPath>F:/Unity/UniversalProfileAvatarSDK-ThirdPersonExample/Assets/universalprofile-unity-avatar-sdk/Dependencies/System.Threading.Tasks.Extensions.dll</HintPath>
+ <Reference Include="unityplastic">
+ <HintPath>F:/Unity/UniversalProfileAvatarSDK-ThirdPersonExample/Library/PackageCache/com.unity.collab-proxy@1.15.12/Lib/Editor/PlasticSCM/unityplastic.dll</HintPath>
  </Reference>
- <Reference Include="System.ValueTuple">
- <HintPath>F:/Unity/UniversalProfileAvatarSDK-ThirdPersonExample/Assets/universalprofile-unity-avatar-sdk/Dependencies/System.ValueTuple.dll</HintPath>
+ <Reference Include="Nethereum.RLP">
+ <HintPath>F:/Unity/UniversalProfileAvatarSDK-ThirdPersonExample/Assets/universalprofile-unity-avatar-sdk/Dependencies/Nethereum.RLP.dll</HintPath>
+ </Reference>
+ <Reference Include="Nethereum.Hex">
+ <HintPath>F:/Unity/UniversalProfileAvatarSDK-ThirdPersonExample/Assets/universalprofile-unity-avatar-sdk/Dependencies/Nethereum.Hex.dll</HintPath>
+ </Reference>
+ <Reference Include="Nethereum.RPC.Reactive">
+ <HintPath>F:/Unity/UniversalProfileAvatarSDK-ThirdPersonExample/Assets/universalprofile-unity-avatar-sdk/Dependencies/Nethereum.RPC.Reactive.dll</HintPath>
+ </Reference>
+ <Reference Include="Nethereum.Web3">
+ <HintPath>F:/Unity/UniversalProfileAvatarSDK-ThirdPersonExample/Assets/universalprofile-unity-avatar-sdk/Dependencies/Nethereum.Web3.dll</HintPath>
+ </Reference>
+ <Reference Include="BouncyCastle.Crypto">
+ <HintPath>F:/Unity/UniversalProfileAvatarSDK-ThirdPersonExample/Assets/universalprofile-unity-avatar-sdk/Dependencies/BouncyCastle.Crypto.dll</HintPath>
+ </Reference>
+ <Reference Include="Nethereum.JsonRpc.Client">
+ <HintPath>F:/Unity/UniversalProfileAvatarSDK-ThirdPersonExample/Assets/universalprofile-unity-avatar-sdk/Dependencies/Nethereum.JsonRpc.Client.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.Analytics.Tracker">
+ <HintPath>F:/Unity/UniversalProfileAvatarSDK-ThirdPersonExample/Library/PackageCache/com.unity.analytics@3.6.12/Unity.Analytics.Tracker.dll</HintPath>
+ </Reference>
+ <Reference Include="Nethereum.JsonRpc.IpcClient">
+ <HintPath>F:/Unity/UniversalProfileAvatarSDK-ThirdPersonExample/Assets/universalprofile-unity-avatar-sdk/Dependencies/Nethereum.JsonRpc.IpcClient.dll</HintPath>
+ </Reference>
+ <Reference Include="Common.Logging.Core">
+ <HintPath>F:/Unity/UniversalProfileAvatarSDK-ThirdPersonExample/Assets/universalprofile-unity-avatar-sdk/Dependencies/Common.Logging.Core.dll</HintPath>
+ </Reference>
+ <Reference Include="Nethereum.Signer">
+ <HintPath>F:/Unity/UniversalProfileAvatarSDK-ThirdPersonExample/Assets/universalprofile-unity-avatar-sdk/Dependencies/Nethereum.Signer.dll</HintPath>
+ </Reference>
+ <Reference Include="Nethereum.Unity">
+ <HintPath>F:/Unity/UniversalProfileAvatarSDK-ThirdPersonExample/Assets/universalprofile-unity-avatar-sdk/Dependencies/Nethereum.Unity.dll</HintPath>
+ </Reference>
+ <Reference Include="Nethereum.Accounts">
+ <HintPath>F:/Unity/UniversalProfileAvatarSDK-ThirdPersonExample/Assets/universalprofile-unity-avatar-sdk/Dependencies/Nethereum.Accounts.dll</HintPath>
+ </Reference>
+ <Reference Include="Nethereum.Contracts">
+ <HintPath>F:/Unity/UniversalProfileAvatarSDK-ThirdPersonExample/Assets/universalprofile-unity-avatar-sdk/Dependencies/Nethereum.Contracts.dll</HintPath>
  </Reference>
  <Reference Include="mscorlib">
  <HintPath>C:/Program Files/Unity/Hub/Editor/2020.3.30f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/mscorlib.dll</HintPath>
