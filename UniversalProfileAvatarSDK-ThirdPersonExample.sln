@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UniversalProfileAvatarSDK", "UniversalProfileAvatarSDK.csproj", "{7ec82b43-74a6-a312-5e6e-291cdfa54fd4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{ab6c6709-c258-9f61-d0dc-d4341d506338}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor", "Assembly-CSharp-Editor.csproj", "{206dea87-aa75-be80-3369-7ad3f172861d}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7ec82b43-74a6-a312-5e6e-291cdfa54fd4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7ec82b43-74a6-a312-5e6e-291cdfa54fd4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7ec82b43-74a6-a312-5e6e-291cdfa54fd4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7ec82b43-74a6-a312-5e6e-291cdfa54fd4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ab6c6709-c258-9f61-d0dc-d4341d506338}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ab6c6709-c258-9f61-d0dc-d4341d506338}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ab6c6709-c258-9f61-d0dc-d4341d506338}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ab6c6709-c258-9f61-d0dc-d4341d506338}.Release|Any CPU.Build.0 = Release|Any CPU
+		{206dea87-aa75-be80-3369-7ad3f172861d}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{206dea87-aa75-be80-3369-7ad3f172861d}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{206dea87-aa75-be80-3369-7ad3f172861d}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{206dea87-aa75-be80-3369-7ad3f172861d}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

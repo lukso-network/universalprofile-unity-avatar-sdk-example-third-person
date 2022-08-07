@@ -1,0 +1,3 @@
+[submodule "Assets/universalprofile-unity-avatar-sdk"]
+	path = Assets/universalprofile-unity-avatar-sdk
+	url = https://github.com/lukso-network/universalprofile-unity-avatar-sdk.git
